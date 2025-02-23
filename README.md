@@ -2,9 +2,13 @@
   <a href="" rel="noopener">
  <img src="https://www.acidadeon.com/saocarlos/wp-content/uploads/sites/6/2023/08/departamento_de_quxmica_ufscar.jpg" alt="Chemistry department"></a>
 </p>
+
 <h1 align="center">Chemistry projects in Python</h1>
 
+Repository developed by [@JuaoSea](https://github.com/JuaoSea), an undergraduate student in Chemistry (Bachelor’s degree) at the Federal University of São Carlos (UFSCar).
+
 ---
+
 ## 📝 Table of Contents
 
 - [Idea / Solution](#idea)
@@ -48,4 +52,4 @@ These improvements will make the project a more robust and valuable resource for
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
-- Chemistry Department of Federal University of São Carlos
+- Departamento de Química da Universidade Federal de São Carlos (UFSCar)
