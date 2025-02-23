@@ -4,7 +4,6 @@
 </p>
 <h1 align="center">Chemistry projects in Python</h1>
 
----
 ## 📝 Table of Contents
 
 - [Idea / Solution](#idea)
